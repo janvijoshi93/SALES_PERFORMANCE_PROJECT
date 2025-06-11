@@ -18,5 +18,5 @@ To create an sales report, so that the owner can understand their customer and g
 - Which region contributed the most to the overall sales?
 - What is the sales distribution across all product categories and regions?
 
-- Dashboard Interaction <a href="https://1drv.ms/u/c/e6edfe149bcdce87/EXrMbTWvnKRFrRXBhsdfhycBsd68ERYHm5za3VbWCRUPBg?e=dUh9Dx">Dashboard Path</a>
+- Dashboard Interaction <a href="https://github.com/janvijoshi93/SALES_PERFORMANCE_PROJECT/blob/main/Screenshot%202025-06-11%20095719.png">Dashboard Path</a>
 

@@ -21,3 +21,9 @@ To create an sales report, so that the owner can understand their customer and g
 ## DASHBOARD
 ![Screenshot 2025-06-09 095418](https://github.com/user-attachments/assets/8f1ba936-c6ab-4ebe-8ab9-25a7ed25c26c)
 
+## PROJECT INSIGHT
+The Sales Performance Dashboard shows total sales of 120.55K, a profit of 18.40K, and 1136 units sold. April saw the highest sales, while March had the lowest. The West region performed best, especially in clothing and furniture, while the East lagged behind. Clothing was the top-selling category overall. Although sales volume is strong, profit margins could be improved, indicating a need for better cost control and pricing strategies.
+
+## FINAL CONCLUSION
+The dashboard reflects strong overall sales performance with clear regional and category-wise trends. While sales volumes are high, profit margins remain moderate, highlighting opportunities to improve efficiency. Focused strategies to boost underperforming regions, optimize product mix, and enhance profitability will drive better business outcomes.
+

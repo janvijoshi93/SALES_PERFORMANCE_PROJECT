@@ -19,5 +19,5 @@ To create an sales report, so that the owner can understand their customer and g
 - What is the sales distribution across all product categories and regions?
 
 ## DASHBOARD
-<a href="https://github.com/janvijoshi93/SALES_PERFORMANCE_PROJECT/blob/main/Screenshot%202025-06-11%20095719.png"></a>
+![Screenshot 2025-06-09 095418](https://github.com/user-attachments/assets/8f1ba936-c6ab-4ebe-8ab9-25a7ed25c26c)
 
